@@ -1,0 +1,3 @@
+﻿  seleccion.cpp
+T:\Tarea 5to actual\Desarrollo de aplicacion y Sistema de informacion\Tarea 15 suma, resta, divide, multiplica\seleccion de que operacio\seleccion\seleccion.cpp(43): error C4700: se utilizó la variable local 'n1' sin inicializar
+T:\Tarea 5to actual\Desarrollo de aplicacion y Sistema de informacion\Tarea 15 suma, resta, divide, multiplica\seleccion de que operacio\seleccion\seleccion.cpp(43): error C4700: se utilizó la variable local 'n2' sin inicializar
