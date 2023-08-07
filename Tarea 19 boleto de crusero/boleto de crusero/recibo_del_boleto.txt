@@ -1,0 +1,13 @@
+Recibo de su viaje
+nombre:    steven
+Apellido:  gonzaelz
+correo:    @g
+Pasaporte: ff
+Cedula:    ee
+genero:    Hombre
+Destino:   Hawai
+Fecha de salida: 1
+Fecha de entrada: 2
+equipaje:  Si
+lleva amigo: 
+Total: 350$

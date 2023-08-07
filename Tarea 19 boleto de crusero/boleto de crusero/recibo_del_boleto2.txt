@@ -1,0 +1,11 @@
+Recibo de su viaje
+nombre:    xd
+Apellido:  xd2
+correo:    xd3
+Pasaporte: xd4
+Cedula:    xd5
+Sexo:    Mujer
+Destino:   Cancun
+Fecha de salida: 11
+Fecha de entrada: 12
+equipaje:  Si
